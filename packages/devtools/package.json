@@ -34,7 +34,7 @@
     "@wdio/logger": "6.0.0-alpha.0",
     "@wdio/protocols": "6.0.0-alpha.1",
     "@wdio/utils": "6.0.0-alpha.1",
-    "chrome-launcher": "^0.11.1",
+    "chrome-launcher": "^1.2.0",
     "puppeteer-core": "^1.18.1"
   },
   "devDependencies": {

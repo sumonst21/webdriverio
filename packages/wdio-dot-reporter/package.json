@@ -34,7 +34,7 @@
     "chalk": "^3.0.0"
   },
   "devDependencies": {
-    "tmp": "^0.1.0"
+    "tmp": "^0.2.5"
   },
   "peerDependencies": {
     "@wdio/cli": "^5.0.0"
